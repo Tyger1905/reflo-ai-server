@@ -12,6 +12,7 @@
     "dotenv": "^17.2.3",
     "express": "^5.1.0",
     "firebase-admin": "^13.0.0",
+    "multer": "^2.3.0",
     "openai": "^6.0.0"
   }
 }
